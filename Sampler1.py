@@ -17,7 +17,7 @@ class SAMPLE:
     color=""     #Color de la frame
 
     # Metodos
-    def __init__(self, pos, entrad, fil, col, colour): # el init es un constructor, una funcion especial que inicializa la clase.
+    def __init__(self, pos, entrad, fil, col, colour):
 
         self.posicion = StringVar() #Para indicar el numero de la secuencia
         self.posicion.set(pos)
@@ -63,7 +63,7 @@ class SAMPLE:
 
 root = Tk()
 root.geometry("1140x480+150+150")
-root.title("Sons 8 rutines")
+root.title("Sons for project X")
 
 fname=StringVar()
 fname.set("backup.txt")
