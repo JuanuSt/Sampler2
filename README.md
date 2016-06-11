@@ -1,2 +1,5 @@
 # Sampler2
-Simple Sampler with setup
+Simple sampler with setup.
+
+![Alt text](//sampler1.png?raw=true)
+
